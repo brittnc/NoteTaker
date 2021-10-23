@@ -35,8 +35,8 @@ User will write and save notes to stay organized and on track!
 
 
 ## Screenshots of Deplyed Application
-[]()
-[]()
+![get started page](public/assets/images/one.png)
+![note page](public/assets/images/two.png)
 
 ## Questions
 If you have any questions please reach out to my [E-mail!](brittneylynn@live.com)
